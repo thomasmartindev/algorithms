@@ -1,3 +1,3 @@
 # Running Time - Selection Sort
 
-ϴ(n2)
+- ### ϴ(*n<sup>2</sup>*)
