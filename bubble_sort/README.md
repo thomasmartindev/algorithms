@@ -1,4 +1,4 @@
 # Running Time - Bubble Sort
 
-O(n2)
-Ω(n)
+- ### O(*n<sup>2</sup>*)
+- ### Ω(*n*)
